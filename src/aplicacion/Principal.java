@@ -9,8 +9,8 @@ public class Principal{
 
 
 
-        System.out.println("1) La suma de los 10 primeros números naturaleses: "+ Operaciones.sumaMemoria(0, 0, 0));
-        System.out.println("1.2) la suma de los 10 priemeros números naturaleses:" + Operaciones.sumaVersion2(0));
+        System.out.println("1) La suma de los 10 primeros números naturales es: "+ Operaciones.sumaMemoria(0, 0, 0));
+        System.out.println("1.2) la suma de los 10 priemeros números naturales es:" + Operaciones.sumaVersion2(0));
     
     }
 }
